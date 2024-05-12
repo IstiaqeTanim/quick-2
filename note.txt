@@ -1,0 +1,9 @@
+html css-reusable block
+css code hiererchy
+homepage-landing page, sales page, squeze page
+href not empty, use #
+
+shudo selector
+first child
+last child 
+nth child
